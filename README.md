@@ -75,7 +75,7 @@ Contact: prabhasterli@gmail.com
     <td width="33%" valign="top">
       <h3 align="center">🌐 Personal Portfolio</h3>
       <p align="center"><b>Full-Stack Portfolio Showcase</b></p>
-      <p>Full-stack personal portfolio web app showcasing academic records at NIT Agartala (CGPA 8.23), 150+ LeetCode DSA topic breakdowns, project cards, and backend Express contact API route.</p>
+      <p>Full-stack personal portfolio web app showcasing academic records at NIT Agartala (CGPA 8.23), 200+ LeetCode DSA topic breakdowns, project cards, and backend Express contact API route.</p>
       <p align="center">
         <a href="https://github.com/TerliPrabhas/personal-portfolio-website"><b>📁 View Repository »</b></a>
       </p>
