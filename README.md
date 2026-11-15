@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+AI+%26+Web+Developer;CSE+Undergrad+%40+NIT+Agartala+(CGPA+8.23);200%2B+LeetCode+DSA+Problems+Solved;Building+Scalable+Web+Apps+%26+AI+Systems)
 
   <p align="center">
-    <b>B.Tech CSE @ NIT Agartala</b> • <b>Full-Stack Web Engineering</b> • <b>200+ LeetCode DSA Solved</b>
+    <b>B.Tech CSE @ NIT Agartala</b> • <b>Full-Stack Web Engineering</b> • <b>250+ LeetCode DSA Solved</b>
   </p>
 
   <a href="https://linkedin.com/in/prabhasterli1899">
@@ -30,14 +30,14 @@
 ```yaml
 Name: Terli Jogiswara Prabhas
 Education: B.Tech in Computer Science & Engineering @ NIT Agartala (2023–2027) | CGPA: 8.23
-Problem Solving: 200+ Data Structures & Algorithms (DSA) problems solved on LeetCode (actively targeting 300+)
+Problem Solving: 250+ Data Structures & Algorithms (DSA) problems solved on LeetCode (actively targeting 300+)
 Focus Areas: Full Stack Web Development, Backend REST APIs, Generative AI Integration
 Location: Agartala, India / Vijayawada, India
 Contact: prabhasterli@gmail.com | +91-8074811487
 ```
 
 - 🎓 **Academic Excellence**: Computer Science & Engineering undergraduate at **NIT Agartala** with an **8.23 CGPA**; intermediate score of **93.7%** and secondary score of **10 CGPA**.
-- 🏆 **Algorithmic Problem Solving**: Solved **200+ LeetCode problems** (targeting 300+) across core computer science domains (Arrays, Trees, Graphs, DP).
+- 🏆 **Algorithmic Problem Solving**: Solved **250+ LeetCode problems** (targeting 300+) across core computer science domains (Arrays, Trees, Graphs, DP).
 - 🛠️ **Production Full-Stack Engineering**: Built and deployed **3 production-grade web applications** on GitHub featuring Node.js, Express.js REST APIs, MongoDB, HTML5, Vanilla CSS3, and JavaScript.
 - 🤖 **Modern AI & Cloud**: Exploring Generative AI integration, LLMs, and high-performance full-stack architectures.
 
@@ -51,7 +51,7 @@ Contact: prabhasterli@gmail.com | +91-8074811487
   </a>
 </div>
 
-- 🎯 **Total Problems Solved**: **200+ Problems** (actively practicing toward 300+)
+- 🎯 **Total Problems Solved**: **250+ Problems** (actively practicing toward 300+)
 - 💡 **Core Topics Mastered**:
   - `Arrays & Strings` • `Linked Lists` • `Stacks & Queues`
   - `Binary Trees & BST` • `Graph Algorithms (BFS & DFS)`
@@ -98,7 +98,7 @@ Contact: prabhasterli@gmail.com | +91-8074811487
     <td width="33%" valign="top">
       <h3 align="center">🌐 Personal Portfolio</h3>
       <p align="center"><b>Full-Stack Developer Portfolio (2026)</b></p>
-      <p>Responsive developer portfolio showcasing <b>200+ LeetCode DSA solutions</b>, NIT Agartala academic credentials (CGPA 8.23), interactive project cards, typing hero effects, and backend Express contact API (<code>/api/contact</code>).</p>
+      <p>Responsive developer portfolio showcasing <b>250+ LeetCode DSA solutions</b>, NIT Agartala academic credentials (CGPA 8.23), interactive project cards, typing hero effects, and backend Express contact API (<code>/api/contact</code>).</p>
       <p><b>Tech</b>: HTML5, CSS Variables, Flexbox/Grid, JavaScript, Node.js, Express.js</p>
       <p align="center">
         <a href="https://github.com/TerliPrabhas/personal-portfolio-website"><b>📁 View Repository »</b></a>
