@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+AI+%26+Web+Developer;CSE+Undergrad+%40+NIT+Agartala+(CGPA+8.23);200%2B+LeetCode+DSA+Problems+Solved;Building+Scalable+Web+Apps+%26+AI+Systems)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+AI+%26+Web+Developer;CSE+Undergrad+%40+NIT+Agartala+(CGPA+8.23);250%2B+LeetCode+DSA+Problems+Solved;Building+Scalable+Web+Apps+%26+AI+Systems)
 
   <p align="center">
     <b>B.Tech CSE @ NIT Agartala</b> • <b>Full-Stack Web Engineering</b> • <b>250+ LeetCode DSA Solved</b>
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/TerliPrabhas/">
-    <img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-250%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/TerliPrabhas">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
