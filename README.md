@@ -8,7 +8,7 @@
     <b>B.Tech CSE @ NIT Agartala</b> • <b>Full-Stack Web Engineering</b> • <b>250+ LeetCode DSA Solved</b>
   </p>
 
-  <a href="https://linkedin.com/in/prabhasterli1899">
+  <a href="https://www.linkedin.com/in/prabhasterli1899/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/TerliPrabhas/">
@@ -83,7 +83,7 @@ Contact: prabhasterli@gmail.com | +91-8074811487
       <p>Modern e-commerce platform with Node.js & Express REST backend, real-time product search, category filtering, quick-view modals, interactive cart drawer, promo code discounts (<code>PROBO20</code>), and checkout API endpoints.</p>
       <p><b>Tech</b>: HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, REST API</p>
       <p align="center">
-        <a href="https://github.com/TerliPrabhas/ecommerce-web-app"><b>📁 View Repository »</b></a>
+        <a href="https://ecommerce-web-app-rya0.onrender.com"><b>🚀 Live Demo »</b></a> &bull; <a href="https://github.com/TerliPrabhas/ecommerce-web-app"><b>📁 Repo »</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -92,7 +92,7 @@ Contact: prabhasterli@gmail.com | +91-8074811487
       <p>Futuristic audio streaming web app featuring complete playback control (play, pause, seek, volume), shuffle mode, single-track repeat loop, 60 FPS HTML5 Canvas equalizer spectrum visualizer, synced live lyrics drawer, and playlist APIs.</p>
       <p><b>Tech</b>: HTML5 Audio API, Canvas, CSS3, JavaScript, Node.js, Express.js</p>
       <p align="center">
-        <a href="https://github.com/TerliPrabhas/music-player-app"><b>📁 View Repository »</b></a>
+        <a href="https://music-player-app-y8q9.onrender.com"><b>🚀 Live Demo »</b></a> &bull; <a href="https://github.com/TerliPrabhas/music-player-app"><b>📁 Repo »</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -101,7 +101,7 @@ Contact: prabhasterli@gmail.com | +91-8074811487
       <p>Responsive developer portfolio showcasing <b>250+ LeetCode DSA solutions</b>, NIT Agartala academic credentials (CGPA 8.23), interactive project cards, typing hero effects, and backend Express contact API (<code>/api/contact</code>).</p>
       <p><b>Tech</b>: HTML5, CSS Variables, Flexbox/Grid, JavaScript, Node.js, Express.js</p>
       <p align="center">
-        <a href="https://github.com/TerliPrabhas/personal-portfolio-website"><b>📁 View Repository »</b></a>
+        <a href="https://personal-portfolio-website-bw5t.onrender.com"><b>🚀 Live Demo »</b></a> &bull; <a href="https://github.com/TerliPrabhas/personal-portfolio-website"><b>📁 Repo »</b></a>
       </p>
     </td>
   </tr>
